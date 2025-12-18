@@ -5,17 +5,14 @@
 
 ### :open_book: Introduction
 Next in my 42 journey is `ft_printf`. On this project I learnt how to work with *variadic functions*.
->
-> <small>***Tip:** Feel free to search how **'va_start'**, **'va_arg'** and **'va_end'** work.*</small>
->
+
+> [!TIP]
+> Feel free to search how **'va_start'**, **'va_arg'** and **'va_end'** work.*
 We use `printf()` everyday, but did you know how it actually works? Take a look through this code!
 
 
-> &nbsp;
-> ⚠️ **DISCLAIMER**
->
-> *If you're a 42 student: 42 projects must be CODED by yourself. Do not copy this project into yours. You will learn nothing by doing that. Exams are completed without Internet connection; you're alone with your IDE. The porpuse of these repositories is to show what we do at 42 and, yes, if you're stucked at some point, learn something new, but give peer-to-peer a chance first :wink:.*
-> &nbsp;
+> [!WARNING]
+> *If you're a 42 student: 42 projects must be CODED by yourself. Do not copy this project into yours. You will learn nothing by doing that. Exams are completed without Internet connection; you're alone with your IDE. The porpuse of these repositories is to show what we do at 42 and, yes, if you're stucked at some point, learn something new, but give peer-to-peer a chance first* 😉.
 
 
 ### :open_file_folder: Makefile
