@@ -64,13 +64,23 @@ int	ft_printf(char const *format, ...)
 	va_end(args);
 	return (j);
 }
-
-/* #include <stdio.h>
-
-int	main(void)
+/*int main(void)
 {
-	int	n = -42;
-	ft_printf("mi porcentaje: %%\n");
-	printf("porcentaje: %%\n");
-	return (0);
-} */
+	char ch = 'A';
+	char *str = "Hello";
+	void *ptr = str;
+	int num = -42;
+	unsigned int unum = 42;
+
+	ft_printf("char: %c\n", ch);
+	ft_printf("string: %s\n", str);
+	ft_printf("pointer: %p\n", ptr);
+	ft_printf("decimal: %d\n", num);
+	ft_printf("integer: %i\n", num);
+	ft_printf("unsigned: %u\n", unum);
+	ft_printf("hex lowercase: %x\n", unum);
+	ft_printf("hex uppercase: %X\n", unum);
+	ft_printf("percent: %%\n");
+
+	return 0;
+}*/
