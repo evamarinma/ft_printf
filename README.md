@@ -40,7 +40,7 @@ make re
 ```
 git clone git@github.com:evamarinma/ft_printf.git
 ```
-<button onclick="navigator.clipboard.writeText('git clone git@github.com:evamarinma/ft_printf.git')">Copy</button>
+
 <br>
 
 2. Use **'make'** command to compile the code.
