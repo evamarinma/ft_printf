@@ -8,7 +8,7 @@ Next in my 42 journey is `ft_printf`. On this project I learnt how to work with 
 >
 > <small>***Tip:** Feel free to search how **'va_start'**, **'va_arg'** and **'va_end'** work.*</small>
 >
-We use `printf()` veryday, but did you know how it actually works? Take a look through this code!
+We use `printf()` everyday, but did you know how it actually works? Take a look through this code!
 
 
 > &nbsp;
