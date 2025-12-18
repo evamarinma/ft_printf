@@ -62,5 +62,5 @@ cc *.c -o ft_printf && ./ft_printf
 <br>
 
 ### :point_up::nerd_face: Tips
-* Don't know what a certain parameter does? Feeling curious about a library used by your function! Internet is wide, look for it!
+* Don't know what a certain parameter does? Feeling curious about a library used by your function? Internet is wide, look for it!
 * Can't you find some information on blogs? Ask your favourite AI about it! Use it as a searching index! **DO NOT** ask them to do your job, but take advantage and use it as an ally to learn deeper! *Keep in mind AI might be wrong about somethings, contrast their info with blogs/posts/etc*
